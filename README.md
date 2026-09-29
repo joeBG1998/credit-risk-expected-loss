@@ -1,4 +1,4 @@
-
+## Credit Risk Modelling & Expected Loss Framework
 
 End-to-end credit risk modelling project using Lending Club consumer-loan data. The project estimates borrower-level Probability of Default (PD), calibrates predicted probabilities using out-of-time validation, derives a recovery-based Loss Given Default (LGD), calculates Exposure at Default (EAD), and translates these components into portfolio Expected Loss (EL) and stress scenarios.
 
